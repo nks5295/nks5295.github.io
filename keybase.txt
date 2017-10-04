@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/nks5295
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://shah7.com
+  * I am nks5295 (https://keybase.io/nks5295) on keybase.
+  * I have a public key ASCpwn2f8ioehbwNG_eJ_syauPoNb1WP5kFIRwQ7WI83fgo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0120a9c27d9ff22a1e85bc0d1bf789fecc9ab8fa0d6f558fe6414847043b588f377e0a",
+            "host": "keybase.io",
+            "kid": "0120a9c27d9ff22a1e85bc0d1bf789fecc9ab8fa0d6f558fe6414847043b588f377e0a",
+            "uid": "26c63312e617e0036885289614cd7219",
+            "username": "nks5295"
+        },
+        "service": {
+            "hostname": "shah7.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.18"
+    },
+    "ctime": 1481399871,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1481399862,
+        "hash": "dc81b60e00af4be7780d29be8315c680529466aee72363d68119bc8327dcdabfad471983520e7177af04c930409d39422dc80c431f830e3bd3851ee6edbd2030",
+        "seqno": 755440
+    },
+    "prev": "e36f4df52057f25f6a7db48e5e13abf05480dfcc19c7b54fdbfc072364bb8013",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgqcJ9n/IqHoW8DRv3if7Mmrj6DW9Vj+ZBSEcEO1iPN34Kp3BheWxvYWTFAu97ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwYTljMjdkOWZmMjJhMWU4NWJjMGQxYmY3ODlmZWNjOWFiOGZhMGQ2ZjU1OGZlNjQxNDg0NzA0M2I1ODhmMzc3ZTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwYTljMjdkOWZmMjJhMWU4NWJjMGQxYmY3ODlmZWNjOWFiOGZhMGQ2ZjU1OGZlNjQxNDg0NzA0M2I1ODhmMzc3ZTBhIiwidWlkIjoiMjZjNjMzMTJlNjE3ZTAwMzY4ODUyODk2MTRjZDcyMTkiLCJ1c2VybmFtZSI6Im5rczUyOTUifSwic2VydmljZSI6eyJob3N0bmFtZSI6InNoYWg3LmNvbSIsInByb3RvY29sIjoiaHR0cDoifSwidHlwZSI6IndlYl9zZXJ2aWNlX2JpbmRpbmciLCJ2ZXJzaW9uIjoxfSwiY2xpZW50Ijp7Im5hbWUiOiJrZXliYXNlLmlvIGdvIGNsaWVudCIsInZlcnNpb24iOiIxLjAuMTgifSwiY3RpbWUiOjE0ODEzOTk4NzEsImV4cGlyZV9pbiI6NTA0NTc2MDAwLCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTQ4MTM5OTg2MiwiaGFzaCI6ImRjODFiNjBlMDBhZjRiZTc3ODBkMjliZTgzMTVjNjgwNTI5NDY2YWVlNzIzNjNkNjgxMTliYzgzMjdkY2RhYmZhZDQ3MTk4MzUyMGU3MTc3YWYwNGM5MzA0MDlkMzk0MjJkYzgwYzQzMWY4MzBlM2JkMzg1MWVlNmVkYmQyMDMwIiwic2Vxbm8iOjc1NTQ0MH0sInByZXYiOiJlMzZmNGRmNTIwNTdmMjVmNmE3ZGI0OGU1ZTEzYWJmMDU0ODBkZmNjMTljN2I1NGZkYmZjMDcyMzY0YmI4MDEzIiwic2Vxbm8iOjgsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAqpZ53x2trJYsdh6KZXVbrmiGznwplscxYJmfF/2fX14Sv2K18Y1Wio8sSjgNFz4QUEZaZgDdsIbT3AgmIGF7DqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBaVeiSMpCsN/mzNYgZrV1Sc2MzaThbfvwB9LRxlx/4po3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/nks5295
+
+==================================================================
+

